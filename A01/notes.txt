@@ -1,0 +1,3 @@
+Before starting to code, try to write a blue print of the code, than fill the functions and 
+place holders
+srend(time(0): we start with it than we use ren() that gives a calculated number that appears random, to chose the max , we just need to use modulo %.
